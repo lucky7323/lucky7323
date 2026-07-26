@@ -1,6 +1,6 @@
 # Hi, I'm Tony 👋
 
-Currently, I enjoy exploring Blockchain, DeFi, Arbitrage, Quant trading, AI agents**
+Currently, I enjoy exploring **Blockchain, DeFi, Arbitrage, Quant trading, AI agents**
 
 Mostly playing with **Python, Rust, TypeScript, and Solidity**.
 
